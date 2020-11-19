@@ -9,7 +9,8 @@ public class ClientApp {
 		Person p1= new Person("viajy",102,90.00);
 		System.out.println(p1);
 		
-		
+		Person p2= new Person("viajy",102,90.00);
+		System.out.println(p2);
 	}
 
 }
